@@ -20,8 +20,6 @@ signatures.
 
 This project uses the **CI4R-MULTI3 24 GHz Micro-Doppler Spectrogram Dataset**.
 
-The dataset is not included in this repository due to size and licensing constraints.
-
 Dataset source:
 https://github.com/ci4r/CI4R-MULTI3
 
